@@ -128,9 +128,10 @@ def sort_number(*args):
     for i in range(0, len(lst)-1):
         for j in range(1+i, len(lst)):
             if lst[i] > lst[j]:
-                tmp = lst[i]
-                lst[i] = lst[j]
-                lst[j] = tmp
+                (lst[i], lst[j]) = (lst[j], lst[i])		#python支持多元赋值
+                # tmp = lst[i]
+                # lst[i] = lst[j]
+                # lst[j] = tmp
     return lst
 
 a = input('Please a number:')

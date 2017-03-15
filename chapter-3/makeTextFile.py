@@ -1,5 +1,5 @@
-# -*- conding: utf-8 -*-
-# python3.5
+# -*- coding: utf-8 -*-
+# !/usr/bin/python3.5
 
 'makeTextFIle.py -- create text file'
 

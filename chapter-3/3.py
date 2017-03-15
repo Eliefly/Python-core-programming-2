@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# !/usr/bin/python3
+# !/usr/bin/python3.5
 
 # 3-1 为什么python不需要变量名和变量类型声明?
 在Python中，对象的类型和内存占用都是运行时确定的。在创建变量（即变量被赋值时）时，

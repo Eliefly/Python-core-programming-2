@@ -1,5 +1,4 @@
-# 第2章 数据类型
-
+# 第2章 快速入门
 ---
 另可参考：http://blog.csdn.net/reimuko/article/details/28093687
 ```

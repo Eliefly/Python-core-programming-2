@@ -1,1 +1,1 @@
-# Python-core-programming-2
+# python 核心编程第二版练习
